@@ -1,0 +1,1 @@
+{"options":{"capped":true,"size":{"$numberInt":"1048576"}},"indexes":[],"uuid":"c85c299d5b1f4f798dc43e8576f285ec","collectionName":"system.profile","type":"collection"}
